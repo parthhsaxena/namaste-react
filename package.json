@@ -1,0 +1,31 @@
+{
+  "name": "namaste-react",
+  "description": "This is Namaste React practice code",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parthhsaxena/namaste-react.git"
+  },
+  "author": "Parth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parthhsaxena/namaste-react/issues"
+  },
+  "homepage": "https://github.com/parthhsaxena/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
