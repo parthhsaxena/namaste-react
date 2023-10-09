@@ -25,5 +25,8 @@
   },
   "browserslist": [
     "last 2 versions"
-  ]
+  ],
+  "dependencies": {
+    "react-router-dom": "^6.16.0"
+  }
 }
