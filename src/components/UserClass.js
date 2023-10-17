@@ -12,12 +12,9 @@ class UserClass extends React.Component {
         avatar_url: "dummyphoto",
       },
     };
-
-    //console.log("Child Constructor");
   }
 
   async componentDidMount() {
-    //console.log("Child Component Did Mount");
 
     // API call
     const data = await fetch("https://api.github.com/users/parthhsaxena");
